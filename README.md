@@ -1,9 +1,11 @@
 INFO 3305
 WEB APPLICATION DEVELOPMENT
 GROUP PROJECT REPORT
+
 DELIVER JAP :
 A FOOD DELIVERY SYSTEM
 Group Name:
+
 AL-JAZARI
 Muhammad Firdaus bin Mahmad Razelan 1717977
 Wazzirul Adib Bin Sharifuddin 1718685
@@ -23,39 +25,62 @@ condominium/apartments. When we were done a deep research regarding this, our fi
 
 1.2.2 Problem Statement
 ● Staff bound by limited lunch hour break
+
 ● Have to go through traffic jam
+
 ● House far from restaurants
+
 ● Time spend longer for people staying at apartment/condominium
 
 1.3 PROJECT OBJECTIVE
 We plan on achieving below milestones at the end of developing this system which are:
 ● Our website application have customers view
+
 ● Our website application have riders view
+
 ● We managed to integrate the information from customers to riders smoothly
+
 ● The order from customers reached to riders
+
 ● Customers have profile to edit their address etc
+
 ● Customers can sign up/login smoothly
+
 ● Riders can sign up/login smoothly
+
 ● Both stakeholders able to view their recent order/order they just delivered
+
 ● This app helps customer’s food delivered to their doorstep without the hassle to go through traffic jam, waste of time and can utilize the waiting time to do their other priorities.
 
 1.4 PROJECT SCOPE
 1.4.1 Scope
 ● Sign Up
+
 ● Login
+
 ● Recent Order
+
 ● Recent Delivery
+
 ● Food List
+
 ● Customer’s/Rider’s Profile
 
 1.4.2 Targeted User
 ● Office staff
+
 ● Condominium/Apartment residences
+
 ● Rural residences
+
 ● Office employee
+
 ● B40 market
+
 ● University students
+
 ● SPM students
+
 ● Motorcyclist
 
 1.4.3 Specific Platform
