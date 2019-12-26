@@ -5,18 +5,18 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>DeliverJap</title>
-<h1>DeliverJap</h1>
-<h2><u>Customer Login Page</u></h2>
-</head>
-<body>
+<title>Deliver Jap</title>
+<h1><font face="Verdana"><center>Deliver Jap</h1></font>
+<h2><font face="Verdana"><center><u>Riders Login Page</u></h2>
+</head></font>
+<body><font face="Verdana"><center>
 <form name="myform" action="control" method="post">
 <table border="1">
 <tbody>
 		<tr>
 		<!--Details-->
 		<td>Username :</td>
-		<td><input type="text" name="login" value="" size="50"></td>
+		<td><input type="text" name="First" value="" size="50"></td>
 		</tr>
 
 		<tr>
@@ -31,7 +31,7 @@
 <input type ="reset" value="Clear" name="clear">
 <input type="submit" value="Submit" name="submit">
 </form>
-<h3>Dont have an account? <a href="SignUp.jsp">Sign Up</a> now!</h3>
+<h3>Dont have an account? <a href="SignUpRider.jsp">Sign Up</a> now!</h3>
 <p>It's Free. Just fill-in your details.</p>
 <%
 String error = request.getParameter("error");
